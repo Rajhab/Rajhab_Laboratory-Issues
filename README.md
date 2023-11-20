@@ -8,4 +8,4 @@ ISSUES WITH NOT ENOUGH INFORMATION CAN NOT BE FIXED FAST!!!
 
 My Curseforge:
 
-https://www.curseforge.com/minecraft/mc-mods/rajhabs-laboratory
+https://www.curseforge.com/members/rajhab/projects
